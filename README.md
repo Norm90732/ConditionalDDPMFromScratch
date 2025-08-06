@@ -1,2 +1,7 @@
-# ConditionalDDPMFromScratch
-Herer I am implementing a ConditionalDDPM from Scratch in PyTorch for learning purposes. 
+# Conditional DDPM from Scratch
+
+
+
+## Forward Noise 
+
+![ForwardDiffusionFlowers](assets/NoisingProcess.png)<br>
